@@ -1,0 +1,831 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="light dark">
+<title>Soundscape Studio — The Flourishing Compendium</title>
+<link rel="icon" type="image/png" sizes="64x64" href="assets/favicon-64.png">
+<link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32.png">
+<link rel="stylesheet" href="assets/style.css?v=083bfc5-preview2">
+<script id="fc-theme-early">(function(){try{var m=null;var t=m==="light"||m==="dark"?m:(window.matchMedia&&window.matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");document.documentElement.setAttribute("data-theme",t);}catch(e){}})();</script>
+<style>
+  :root {
+    --studio-bg: var(--bg, #0d0f12);
+    --studio-panel: var(--panel, #15181e);
+    --studio-card: var(--bg2, #1c2027);
+    --studio-border: var(--line, rgba(255,255,255,0.08));
+    --studio-gold: var(--gold, #d4af37);
+    --studio-text: var(--text, #e2e8f0);
+    --studio-muted: var(--muted, #94a3b8);
+  }
+  body {
+    background: var(--studio-bg);
+    color: var(--studio-text);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+  }
+  .studio-header {
+    height: 52px;
+    background: var(--studio-panel);
+    border-bottom: 1px solid var(--studio-border);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 20px;
+  }
+  .studio-title-wrap {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+  }
+  .studio-back-link {
+    color: var(--studio-muted);
+    text-decoration: none;
+    font-size: 13px;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    transition: color 0.15s;
+  }
+  .studio-back-link:hover { color: var(--studio-gold); }
+  .studio-h1 {
+    font-size: 15px;
+    font-weight: 600;
+    margin: 0;
+    letter-spacing: -0.01em;
+  }
+  .studio-h1 span { color: var(--studio-gold); }
+  .studio-container {
+    max-width: 1360px;
+    margin: 0 auto;
+    padding: 24px 20px;
+    width: calc(100% - 40px);
+    display: grid;
+    grid-template-columns: 1fr 420px;
+    gap: 24px;
+    flex: 1;
+  }
+  @media (max-width: 1024px) {
+    .studio-container { grid-template-columns: 1fr; }
+  }
+  .studio-card {
+    background: var(--studio-panel);
+    border: 1px solid var(--studio-border);
+    border-radius: 12px;
+    padding: 20px;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.15);
+  }
+  .studio-section-title {
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--studio-gold);
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    margin: 0 0 16px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  /* Presets Bar */
+  .presets-bar {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 12px;
+    margin-bottom: 24px;
+  }
+  @media (max-width: 768px) {
+    .presets-bar { grid-template-columns: 1fr; }
+  }
+  .preset-card {
+    background: var(--studio-card);
+    border: 1px solid var(--studio-border);
+    border-radius: 10px;
+    padding: 14px;
+    cursor: pointer;
+    text-align: left;
+    transition: all 0.2s ease;
+  }
+  .preset-card:hover {
+    border-color: var(--studio-gold);
+    transform: translateY(-2px);
+  }
+  .preset-card.active {
+    border-color: var(--studio-gold);
+    background: rgba(212, 175, 55, 0.08);
+  }
+  .preset-card h3 {
+    margin: 0 0 4px 0;
+    font-size: 13px;
+    font-weight: 600;
+    color: var(--studio-text);
+  }
+  .preset-card p {
+    margin: 0 0 8px 0;
+    font-size: 11px;
+    color: var(--studio-muted);
+    line-height: 1.4;
+  }
+  .preset-tag {
+    display: inline-block;
+    font-size: 10px;
+    font-weight: 600;
+    text-transform: uppercase;
+    padding: 2px 6px;
+    border-radius: 4px;
+    background: rgba(255,255,255,0.06);
+    color: var(--studio-gold);
+  }
+
+  /* 3-Channel Mixer */
+  .mixer-channels {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 16px;
+    margin-bottom: 24px;
+  }
+  @media (max-width: 820px) {
+    .mixer-channels { grid-template-columns: 1fr; }
+  }
+  .channel-strip {
+    background: var(--studio-card);
+    border: 1px solid var(--studio-border);
+    border-radius: 10px;
+    padding: 16px;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
+  .channel-head {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .channel-num {
+    font-size: 10px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: var(--studio-gold);
+    letter-spacing: 0.05em;
+  }
+  .channel-badge {
+    font-size: 11px;
+    color: var(--studio-muted);
+  }
+  .channel-name {
+    font-size: 14px;
+    font-weight: 600;
+    margin: 0;
+  }
+  .channel-select {
+    width: 100%;
+    padding: 7px 10px;
+    background: var(--studio-panel);
+    color: var(--studio-text);
+    border: 1px solid var(--studio-border);
+    border-radius: 6px;
+    font-size: 12px;
+    outline: none;
+    cursor: pointer;
+  }
+  .channel-select:focus { border-color: var(--studio-gold); }
+  .channel-fader-wrap {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-top: 4px;
+  }
+  .channel-slider {
+    flex: 1;
+    accent-color: var(--studio-gold);
+    height: 5px;
+    cursor: pointer;
+  }
+  .channel-vol-val {
+    font-size: 12px;
+    font-variant-numeric: tabular-nums;
+    min-width: 34px;
+    text-align: right;
+    color: var(--studio-muted);
+  }
+  .channel-btn-row {
+    display: flex;
+    gap: 6px;
+  }
+  .channel-btn {
+    flex: 1;
+    padding: 5px 0;
+    font-size: 11px;
+    font-weight: 600;
+    background: var(--studio-panel);
+    border: 1px solid var(--studio-border);
+    color: var(--studio-muted);
+    border-radius: 4px;
+    cursor: pointer;
+    transition: all 0.15s;
+  }
+  .channel-btn:hover { color: var(--studio-text); }
+  .channel-btn.active {
+    background: var(--studio-gold);
+    color: #000;
+    border-color: var(--studio-gold);
+  }
+
+  /* Master Controls & Visualizer */
+  .master-bar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 16px;
+    background: var(--studio-card);
+    border: 1px solid var(--studio-border);
+    border-radius: 10px;
+    padding: 14px 20px;
+    margin-bottom: 24px;
+  }
+  .play-master-btn {
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    background: var(--studio-gold);
+    border: none;
+    color: #000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: transform 0.15s ease, background 0.15s ease;
+  }
+  .play-master-btn:hover { transform: scale(1.05); }
+  .play-master-btn svg { width: 22px; height: 22px; fill: currentColor; }
+  .master-info {
+    flex: 1;
+  }
+  .master-label {
+    font-size: 13px;
+    font-weight: 600;
+    margin: 0 0 2px 0;
+  }
+  .master-sub {
+    font-size: 11px;
+    color: var(--studio-muted);
+    margin: 0;
+  }
+  .visualizer-canvas {
+    width: 240px;
+    height: 44px;
+    border-radius: 6px;
+    background: rgba(0,0,0,0.25);
+  }
+
+  /* Essay Scratchpad */
+  .writing-notepad {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+  }
+  .notepad-textarea {
+    width: 100%;
+    box-sizing: border-box;
+    flex: 1;
+    min-height: 380px;
+    background: var(--studio-card);
+    border: 1px solid var(--studio-border);
+    border-radius: 8px;
+    color: var(--studio-text);
+    padding: 16px;
+    font-size: 14px;
+    line-height: 1.6;
+    font-family: inherit;
+    resize: vertical;
+    outline: none;
+  }
+  .notepad-textarea:focus { border-color: var(--studio-gold); }
+  .notepad-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 10px;
+    font-size: 12px;
+    color: var(--studio-muted);
+  }
+  .notepad-tools {
+    display: flex;
+    gap: 8px;
+  }
+  .notepad-tool-btn {
+    background: transparent;
+    border: 1px solid var(--studio-border);
+    border-radius: 4px;
+    color: var(--studio-muted);
+    font-size: 11px;
+    padding: 3px 8px;
+    cursor: pointer;
+  }
+  .notepad-tool-btn:hover { color: var(--studio-text); border-color: var(--studio-gold); }
+
+  /* Science Card */
+  .science-box {
+    margin-top: 24px;
+    background: rgba(212, 175, 55, 0.04);
+    border: 1px solid rgba(212, 175, 55, 0.2);
+    border-radius: 10px;
+    padding: 16px;
+  }
+  .science-box h4 {
+    margin: 0 0 6px 0;
+    font-size: 13px;
+    color: var(--studio-gold);
+    display: flex;
+    align-items: center;
+    gap: 6px;
+  }
+  .science-box p {
+    font-size: 12px;
+    line-height: 1.5;
+    margin: 0;
+    color: var(--studio-muted);
+  }
+</style>
+</head>
+<body>
+
+<header class="studio-header">
+  <div class="studio-title-wrap">
+    <a href="index.html" class="studio-back-link">
+      <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 12H5M12 19l-7-7 7-7"/></svg>
+      Wiki
+    </a>
+    <h1 class="studio-h1">Soundscape <span>Studio</span> — Multi-Layer Focus Audio</h1>
+  </div>
+  <button id="themeBtn" type="button" class="colToggle" title="Toggle theme" style="background:none;border:none;color:var(--studio-muted);cursor:pointer;">
+    <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="5"/><path d="M12 1v2M12 21v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M1 12h2M21 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42"/></svg>
+  </button>
+</header>
+
+<main class="studio-container">
+  <!-- Left Column: Audio Layering Engine -->
+  <div class="studio-left">
+    <!-- Presets Section -->
+    <div class="studio-card" style="margin-bottom: 24px;">
+      <div class="studio-section-title">
+        <span>Writing Phase Presets (Cognitive Science)</span>
+        <span style="font-size: 11px; opacity: 0.7;">Click to load stem recipe</span>
+      </div>
+      <div class="presets-bar">
+        <div class="preset-card active" data-preset="ideation">
+          <span class="preset-tag">Phase 1 · Alpha (~10Hz)</span>
+          <h3>Ideation & Outlining</h3>
+          <p>Soft Felt Piano + Still Waters Handpan + Pink Noise ($1/f$). Boosts associative thinking & working memory without distraction.</p>
+        </div>
+        <div class="preset-card" data-preset="drafting">
+          <span class="preset-tag">Phase 2 · Beta (~14Hz)</span>
+          <h3>Deep Drafting & Flow</h3>
+          <p>Baroque Lute / Nylon Guitar + 14Hz Beta Binaural Waves + Brown Noise. Shields inner speech and drives high-velocity prose.</p>
+        </div>
+        <div class="preset-card" data-preset="editing">
+          <span class="preset-tag">Phase 3 · Masking</span>
+          <h3>Precision Proofreading</h3>
+          <p>Pure Brown Noise bed + Ambient Piano. Maximum low-frequency sensory cocoon for total syntactic error detection.</p>
+        </div>
+      </div>
+
+      <!-- Master Control Strip -->
+      <div class="master-bar">
+        <button id="masterPlayBtn" class="play-master-btn" aria-label="Play or pause audio mix">
+          <svg id="playIcon" viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
+          <svg id="pauseIcon" viewBox="0 0 24 24" style="display:none;"><path d="M6 5h4v14H6zm8 0h4v14h-4z"/></svg>
+        </button>
+        <div class="master-info">
+          <div class="master-label">Master Acoustic Mix</div>
+          <div class="master-sub" id="masterStatus">Ready · 3 stems synchronized</div>
+        </div>
+        <canvas id="visCanvas" class="visualizer-canvas" width="240" height="44"></canvas>
+      </div>
+
+      <!-- 3-Channel Stem Mixer -->
+      <div class="studio-section-title">
+        <span>3-Stem Live Soundboard</span>
+        <span style="font-size: 11px; opacity: 0.7;">Adjust levels & timbre</span>
+      </div>
+
+      <div class="mixer-channels">
+        <!-- Stem 1: Melodic Foreground -->
+        <div class="channel-strip">
+          <div class="channel-head">
+            <span class="channel-num">Stem 1</span>
+            <span class="channel-badge">Melody</span>
+          </div>
+          <h4 class="channel-name">Foreground Instrument</h4>
+          <select id="stem1Select" class="channel-select">
+            <optgroup label="Lyricless Felt Piano">
+              <option value="felt-piano" selected>Changing Pace (Felt Piano)</option>
+              <option value="ambient-piano">The World Can Wait (Piano)</option>
+              <option value="winter-piano">Winter Meditations (Felt)</option>
+            </optgroup>
+            <optgroup label="Guitar & Lute">
+              <option value="nylon-guitar">Dawn (Nylon Guitar)</option>
+              <option value="waves-guitar">Waves (Ambient Guitar)</option>
+              <option value="calm-morning">A Calm Morning (Nylon)</option>
+              <option value="baroque-lute">London Suite IV (Baroque Lute)</option>
+            </optgroup>
+            <optgroup label="Endel Soundscapes">
+              <option value="flow">Flow (Endel)</option>
+              <option value="deep-listening">Deep Listening (Endel)</option>
+              <option value="bare-attention">Bare Attention (Endel)</option>
+            </optgroup>
+            <option value="mute">[ Muted / None ]</option>
+          </select>
+          <div class="channel-fader-wrap">
+            <input type="range" id="stem1Vol" class="channel-slider" min="0" max="100" value="70">
+            <span id="stem1VolVal" class="channel-vol-val">70%</span>
+          </div>
+          <div class="channel-btn-row">
+            <button id="stem1Mute" class="channel-btn">Mute</button>
+            <button id="stem1Solo" class="channel-btn">Solo</button>
+          </div>
+        </div>
+
+        <!-- Stem 2: Harmonic & Resonant Bed -->
+        <div class="channel-strip">
+          <div class="channel-head">
+            <span class="channel-num">Stem 2</span>
+            <span class="channel-badge">Harmonic</span>
+          </div>
+          <h4 class="channel-name">Resonance / Handpan</h4>
+          <select id="stem2Select" class="channel-select">
+            <option value="still-waters" selected>Still Waters (Calm Handpan)</option>
+            <option value="regulation-999">Nervous Regulation (999Hz)</option>
+            <option value="beta-focus">14Hz Beta Waves (Concentration)</option>
+            <option value="mute">[ Muted / None ]</option>
+          </select>
+          <div class="channel-fader-wrap">
+            <input type="range" id="stem2Vol" class="channel-slider" min="0" max="100" value="40">
+            <span id="stem2VolVal" class="channel-vol-val">40%</span>
+          </div>
+          <div class="channel-btn-row">
+            <button id="stem2Mute" class="channel-btn">Mute</button>
+            <button id="stem2Solo" class="channel-btn">Solo</button>
+          </div>
+        </div>
+
+        <!-- Stem 3: Foundation Noise Bed -->
+        <div class="channel-strip">
+          <div class="channel-head">
+            <span class="channel-num">Stem 3</span>
+            <span class="channel-badge">Acoustic Shield</span>
+          </div>
+          <h4 class="channel-name">Colored Noise Bed</h4>
+          <select id="stem3Select" class="channel-select">
+            <option value="pink-synth" selected>Pink Noise (1/f Realtime)</option>
+            <option value="brown-synth">Brown Noise (1/f² Realtime)</option>
+            <option value="white-synth">White Noise (Flat Realtime)</option>
+            <option value="beta-synth">14Hz Binaural Sine Carrier</option>
+            <option value="mute">[ Muted / None ]</option>
+          </select>
+          <div class="channel-fader-wrap">
+            <input type="range" id="stem3Vol" class="channel-slider" min="0" max="100" value="35">
+            <span id="stem3VolVal" class="channel-vol-val">35%</span>
+          </div>
+          <div class="channel-btn-row">
+            <button id="stem3Mute" class="channel-btn">Mute</button>
+            <button id="stem3Solo" class="channel-btn">Solo</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Psychological Sciences Grounding Box -->
+    <div class="science-box">
+      <h4>
+        <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><line x1="12" y1="16" x2="12" y2="12"/><line x1="12" y1="8" x2="12.01" y2="8"/></svg>
+        Music Psychology & Working Memory Science
+      </h4>
+      <p>
+        <strong>Baddeley's Phonological Loop:</strong> Essay writing requires formulating complex sentences through internal monologue. Lyrics or vocal-like formants cause immediate linguistic interference. Lyricless piano, nylon guitar, and baroque lute bypass semantic processing completely.<br><br>
+        <strong>Stochastic Resonance & Brown/Pink Noise:</strong> Continuous $1/f$ (pink) and $1/f^2$ (brown) noise beds mask unpredictable office/ambient transients, preventing cortical orienting reflexes while optimizing autonomic arousal for sustained cognitive endurance.
+      </p>
+    </div>
+  </div>
+
+  <!-- Right Column: Distraction-Free Essay Scratchpad -->
+  <div class="studio-right">
+    <div class="studio-card writing-notepad">
+      <div class="studio-section-title">
+        <span>Essay Writing Scratchpad</span>
+        <span id="wordCount">0 words</span>
+      </div>
+      <textarea id="essayEditor" class="notepad-textarea" placeholder="Draft your essay, arguments, or thesis notes here while listening to your layered soundscape... Auto-saved locally."></textarea>
+      <div class="notepad-footer">
+        <span id="saveStatus">Saved locally</span>
+        <div class="notepad-tools">
+          <button id="copyBtn" class="notepad-tool-btn">Copy Text</button>
+          <button id="clearBtn" class="notepad-tool-btn">Clear</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</main>
+
+<script>
+(function() {
+  'use strict';
+
+  var AC = window.AudioContext || window.webkitAudioContext;
+  var ctx = null;
+  var analyser = null;
+  var isPlaying = false;
+
+  // Stems state
+  var stem1Gain = null, stem2Gain = null, stem3Gain = null, masterGain = null;
+  var stem1Audio = null, stem2Audio = null, stem3Node = null;
+  var stem1Muted = false, stem2Muted = false, stem3Muted = false;
+  var soloMode = null; // 1, 2, or 3
+
+  var stem1Vol = 0.7, stem2Vol = 0.4, stem3Vol = 0.35;
+
+  function initAudio() {
+    if (ctx) return;
+    ctx = new AC();
+    masterGain = ctx.createGain();
+    masterGain.gain.value = 0.9;
+
+    analyser = ctx.createAnalyser();
+    analyser.fftSize = 64;
+
+    stem1Gain = ctx.createGain();
+    stem2Gain = ctx.createGain();
+    stem3Gain = ctx.createGain();
+
+    stem1Gain.gain.value = stem1Vol;
+    stem2Gain.gain.value = stem2Vol;
+    stem3Gain.gain.value = stem3Vol * 0.4;
+
+    stem1Gain.connect(masterGain);
+    stem2Gain.connect(masterGain);
+    stem3Gain.connect(masterGain);
+
+    masterGain.connect(analyser);
+    analyser.connect(ctx.destination);
+
+    setupVisualizer();
+  }
+
+  // Real-time Procedural Noise Generator
+  function createProceduralBed(type) {
+    if (!ctx) return null;
+    if (type === 'beta-synth') {
+      var merger = ctx.createChannelMerger(2);
+      var oL = ctx.createOscillator(), oR = ctx.createOscillator();
+      oL.type = 'sine'; oR.type = 'sine';
+      oL.frequency.value = 200; oR.frequency.value = 214;
+      oL.connect(merger, 0, 0); oR.connect(merger, 0, 1);
+      oL.start(); oR.start();
+      return {
+        connect: function(dest) { merger.connect(dest); },
+        stop: function() { try { oL.stop(); oR.stop(); } catch(e){} }
+      };
+    }
+
+    var len = ctx.sampleRate * 2;
+    var buf = ctx.createBuffer(2, len, ctx.sampleRate);
+    var l = buf.getChannelData(0), r = buf.getChannelData(1);
+    var bL = 0, bR = 0;
+    var p0 = 0, p1 = 0, p2 = 0, p3 = 0, p4 = 0, p5 = 0;
+
+    for (var i = 0; i < len; i++) {
+      var wl = Math.random() * 2 - 1, wr = Math.random() * 2 - 1;
+      if (type === 'brown-synth') {
+        bL = (bL + 0.02 * wl) / 1.02;
+        bR = (bR + 0.02 * wr) / 1.02;
+        l[i] = Math.max(-1, Math.min(1, bL * 3.5));
+        r[i] = Math.max(-1, Math.min(1, bR * 3.5));
+      } else if (type === 'pink-synth') {
+        p0 = 0.99886 * p0 + wl * 0.0555179;
+        p1 = 0.99332 * p1 + wl * 0.0750759;
+        p2 = 0.96900 * p2 + wl * 0.1538520;
+        p3 = 0.86650 * p3 + wl * 0.3104856;
+        p4 = 0.55000 * p4 + wl * 0.5329522;
+        p5 = -0.7616 * p5 - wl * 0.0168980;
+        var p = p0 + p1 + p2 + p3 + p4 + p5 + wl * 0.5362;
+        l[i] = Math.max(-1, Math.min(1, p * 0.22));
+        r[i] = Math.max(-1, Math.min(1, p * 0.22));
+      } else {
+        l[i] = wl * 0.25;
+        r[i] = wr * 0.25;
+      }
+    }
+    // wrap smoothing
+    var fade = Math.floor(ctx.sampleRate * 0.05);
+    for (var j = 0; j < fade; j++) {
+      var w = j / fade;
+      l[j] = l[j] * w + l[len - fade + j] * (1 - w);
+      r[j] = r[j] * w + r[len - fade + j] * (1 - w);
+    }
+    var src = ctx.createBufferSource();
+    src.buffer = buf;
+    src.loop = true;
+    src.start();
+    return src;
+  }
+
+  function startAudio() {
+    initAudio();
+    if (ctx.state === 'suspended') ctx.resume();
+
+    // Stem 1
+    var s1 = document.getElementById('stem1Select').value;
+    if (s1 !== 'mute') {
+      if (!stem1Audio) {
+        stem1Audio = new Audio('assets/audio/' + s1 + '/segment_0000.aac');
+        stem1Audio.loop = true;
+        var node1 = ctx.createMediaElementSource(stem1Audio);
+        node1.connect(stem1Gain);
+      }
+      stem1Audio.play().catch(function(){});
+    }
+
+    // Stem 2
+    var s2 = document.getElementById('stem2Select').value;
+    if (s2 !== 'mute') {
+      if (!stem2Audio) {
+        stem2Audio = new Audio('assets/audio/' + s2 + '/segment_0000.aac');
+        stem2Audio.loop = true;
+        var node2 = ctx.createMediaElementSource(stem2Audio);
+        node2.connect(stem2Gain);
+      }
+      stem2Audio.play().catch(function(){});
+    }
+
+    // Stem 3
+    var s3 = document.getElementById('stem3Select').value;
+    if (s3 !== 'mute') {
+      if (stem3Node) { try { stem3Node.stop(); } catch(e){} }
+      stem3Node = createProceduralBed(s3);
+      if (stem3Node) stem3Node.connect(stem3Gain);
+    }
+
+    isPlaying = true;
+    updateUI();
+  }
+
+  function stopAudio() {
+    if (stem1Audio) stem1Audio.pause();
+    if (stem2Audio) stem2Audio.pause();
+    if (stem3Node) { try { stem3Node.stop(); } catch(e){} stem3Node = null; }
+    isPlaying = false;
+    updateUI();
+  }
+
+  function updateUI() {
+    var playIcon = document.getElementById('playIcon');
+    var pauseIcon = document.getElementById('pauseIcon');
+    var status = document.getElementById('masterStatus');
+    if (isPlaying) {
+      playIcon.style.display = 'none';
+      pauseIcon.style.display = 'block';
+      status.textContent = 'Playing · Multi-Stem Focus Soundscape active';
+    } else {
+      playIcon.style.display = 'block';
+      pauseIcon.style.display = 'none';
+      status.textContent = 'Paused · Stems paused';
+    }
+  }
+
+  // Visualizer Canvas
+  function setupVisualizer() {
+    var canvas = document.getElementById('visCanvas');
+    var cv = canvas.getContext('2d');
+    var data = new Uint8Array(analyser.frequencyBinCount);
+
+    function draw() {
+      requestAnimationFrame(draw);
+      analyser.getByteFrequencyData(data);
+      cv.clearRect(0, 0, canvas.width, canvas.height);
+
+      var barW = (canvas.width / data.length) * 1.5;
+      var x = 0;
+      for (var i = 0; i < data.length; i++) {
+        var barH = (data[i] / 255) * canvas.height;
+        cv.fillStyle = 'rgba(212, 175, 55, ' + (0.3 + (data[i] / 255) * 0.7) + ')';
+        cv.fillRect(x, canvas.height - barH, barW - 1, barH);
+        x += barW;
+      }
+    }
+    draw();
+  }
+
+  // Events
+  document.getElementById('masterPlayBtn').addEventListener('click', function() {
+    if (isPlaying) stopAudio(); else startAudio();
+  });
+
+  // Faders
+  document.getElementById('stem1Vol').addEventListener('input', function() {
+    stem1Vol = this.value / 100;
+    document.getElementById('stem1VolVal').textContent = this.value + '%';
+    if (stem1Gain && ctx) stem1Gain.gain.setTargetAtTime(stem1Muted ? 0 : stem1Vol, ctx.currentTime, 0.05);
+  });
+  document.getElementById('stem2Vol').addEventListener('input', function() {
+    stem2Vol = this.value / 100;
+    document.getElementById('stem2VolVal').textContent = this.value + '%';
+    if (stem2Gain && ctx) stem2Gain.gain.setTargetAtTime(stem2Muted ? 0 : stem2Vol, ctx.currentTime, 0.05);
+  });
+  document.getElementById('stem3Vol').addEventListener('input', function() {
+    stem3Vol = this.value / 100;
+    document.getElementById('stem3VolVal').textContent = this.value + '%';
+    if (stem3Gain && ctx) stem3Gain.gain.setTargetAtTime(stem3Muted ? 0 : (stem3Vol * 0.4), ctx.currentTime, 0.05);
+  });
+
+  // Presets
+  var presets = {
+    ideation: { s1: 'felt-piano', v1: 70, s2: 'still-waters', v2: 40, s3: 'pink-synth', v3: 35 },
+    drafting: { s1: 'baroque-lute', v1: 75, s2: 'beta-focus', v2: 35, s3: 'brown-synth', v3: 45 },
+    editing:  { s1: 'ambient-piano', v1: 30, s2: 'mute', v2: 0, s3: 'brown-synth', v3: 65 }
+  };
+
+  document.querySelectorAll('.preset-card').forEach(function(card) {
+    card.addEventListener('click', function() {
+      document.querySelectorAll('.preset-card').forEach(function(c){ c.classList.remove('active'); });
+      this.classList.add('active');
+      var p = presets[this.getAttribute('data-preset')];
+      if (!p) return;
+
+      document.getElementById('stem1Select').value = p.s1;
+      document.getElementById('stem1Vol').value = p.v1;
+      document.getElementById('stem1VolVal').textContent = p.v1 + '%';
+      stem1Vol = p.v1 / 100;
+
+      document.getElementById('stem2Select').value = p.s2;
+      document.getElementById('stem2Vol').value = p.v2;
+      document.getElementById('stem2VolVal').textContent = p.v2 + '%';
+      stem2Vol = p.v2 / 100;
+
+      document.getElementById('stem3Select').value = p.s3;
+      document.getElementById('stem3Vol').value = p.v3;
+      document.getElementById('stem3VolVal').textContent = p.v3 + '%';
+      stem3Vol = p.v3 / 100;
+
+      if (isPlaying) {
+        stopAudio();
+        startAudio();
+      }
+    });
+  });
+
+  // Switch selectors
+  ['stem1Select', 'stem2Select', 'stem3Select'].forEach(function(id) {
+    document.getElementById(id).addEventListener('change', function() {
+      if (isPlaying) {
+        stopAudio();
+        startAudio();
+      }
+    });
+  });
+
+  // Notepad Autosave
+  var editor = document.getElementById('essayEditor');
+  var wordCount = document.getElementById('wordCount');
+  var saveStatus = document.getElementById('saveStatus');
+
+  var savedText = localStorage.getItem('fc_studio_essay_draft');
+  if (savedText) {
+    editor.value = savedText;
+    updateWordCount();
+  }
+
+  editor.addEventListener('input', function() {
+    localStorage.setItem('fc_studio_essay_draft', editor.value);
+    saveStatus.textContent = 'Auto-saved locally';
+    updateWordCount();
+  });
+
+  function updateWordCount() {
+    var text = editor.value.trim();
+    var words = text ? text.split(/\s+/).length : 0;
+    wordCount.textContent = words + (words === 1 ? ' word' : ' words');
+  }
+
+  document.getElementById('copyBtn').addEventListener('click', function() {
+    navigator.clipboard.writeText(editor.value).then(function() {
+      saveStatus.textContent = 'Copied to clipboard!';
+      setTimeout(function(){ saveStatus.textContent = 'Auto-saved locally'; }, 2000);
+    });
+  });
+
+  document.getElementById('clearBtn').addEventListener('click', function() {
+    if (confirm('Clear the essay scratchpad?')) {
+      editor.value = '';
+      localStorage.removeItem('fc_studio_essay_draft');
+      updateWordCount();
+    }
+  });
+
+})();
+</script>
+</body>
+</html>

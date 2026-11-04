@@ -145,13 +145,19 @@
       ['flower-and-song', 'Flower and song', 16],
       ['the-dark-night', 'The dark night', 22],
       ['bare-attention', 'Bare attention', 16],
-      ['felt-piano', 'Changing Pace (Felt Piano)', 8],
-      ['nylon-guitar', 'Dawn (Nylon Guitar)', 8],
-      ['baroque-lute', 'London Suite IV (Baroque Lute)', 8],
-      ['still-waters', 'Still Waters (Calm Handpan)', 8],
-      ['brown-noise', 'Brown Noise (1/f² Bed)', 8],
-      ['pink-noise', 'Pink Noise (1/f Resonance)', 8],
-      ['white-noise', 'White Noise (Full-Spectrum)', 8]
+      ['felt-piano', 'Changing Pace (Felt Piano)', 8, 'piano'],
+      ['ambient-piano', 'The World Can Wait (Piano)', 8, 'piano'],
+      ['winter-piano', 'Winter Meditations (Felt)', 8, 'piano'],
+      ['nylon-guitar', 'Dawn (Nylon Guitar)', 8, 'guitar'],
+      ['waves-guitar', 'Waves (Ambient Guitar)', 8, 'guitar'],
+      ['calm-morning', 'A Calm Morning (Guitar)', 8, 'guitar'],
+      ['baroque-lute', 'London Suite IV (Baroque Lute)', 8, 'guitar'],
+      ['still-waters', 'Still Waters (Calm Handpan)', 8, 'rest'],
+      ['regulation-999', 'Nervous Regulation 999Hz', 8, 'rest'],
+      ['beta-focus', '14Hz Beta Waves (Focus)', 8, 'rest'],
+      ['brown-noise', 'Brown Noise (1/f² Bed)', 8, 'noise'],
+      ['pink-noise', 'Pink Noise (1/f Resonance)', 8, 'noise'],
+      ['white-noise', 'White Noise (Full-Spectrum)', 8, 'noise']
     ];
     var instance = FCPlayer.mount({
       setCrossfade: 4,
@@ -160,6 +166,7 @@
           id: s[0],
           title: s[1],
           subtitle: s[2] + ' tracks · ' + s[2] + ' min',
+          category: s[3] || 'endel',
           source: { dir: 'assets/audio/' + s[0] + '/', pattern: 'segment_%04d.aac', count: s[2] }
         };
       })

@@ -267,6 +267,131 @@
     return g;
   };
 
+  // ---------- real-time procedural acoustic bed (layerer) ----------
+
+  Session.prototype.setBedMode = function (type) {
+    this._bedType = type;
+    if (this._bedType === 'off' || !this._bedType) {
+      this._stopBed();
+      return;
+    }
+    if (this.playingState() === 'playing') this._startBed();
+  };
+
+  Session.prototype.setBedVolume = function (vol) {
+    this._bedVol = Math.max(0, Math.min(1, vol));
+    if (this._bedGain && this.ctx && this._bedType && this._bedType !== 'off' && this.playingState() === 'playing') {
+      var target = this._bedVol * 0.45;
+      this._bedGain.gain.setTargetAtTime(target, this.ctx.currentTime, 0.1);
+    }
+  };
+
+  Session.prototype._startBed = function () {
+    if (!this._bedType || this._bedType === 'off' || this.playingState() !== 'playing') return;
+    this.ensureContext();
+    if (!this._bedGain) {
+      this._bedGain = this.ctx.createGain();
+      this._bedGain.gain.value = 0;
+      this._bedGain.connect(this.filter);
+    }
+    if (this._bedNode) {
+      try { this._bedNode.stop(); this._bedNode.disconnect(); } catch (x) {}
+      this._bedNode = null;
+    }
+    this._bedNode = this._createBedSource(this._bedType);
+    if (this._bedNode) {
+      this._bedNode.connect(this._bedGain);
+      var target = (this._bedVol !== undefined ? this._bedVol : 0.3) * 0.45;
+      this._bedGain.gain.setTargetAtTime(target, this.ctx.currentTime, 0.2);
+      this._bedNode.start();
+    }
+  };
+
+  Session.prototype._stopBed = function () {
+    if (this._bedGain && this.ctx) {
+      this._bedGain.gain.setTargetAtTime(0, this.ctx.currentTime, 0.15);
+    }
+    if (this._bedNode) {
+      var n = this._bedNode;
+      setTimeout(function () {
+        try { n.stop(); n.disconnect(); } catch (x) {}
+      }, 200);
+      this._bedNode = null;
+    }
+  };
+
+  Session.prototype._createBedSource = function (type) {
+    var ctx = this.ctx;
+    if (type === 'beta') {
+      var merger = ctx.createChannelMerger(2);
+      var oscL = ctx.createOscillator();
+      var oscR = ctx.createOscillator();
+      oscL.type = 'sine';
+      oscR.type = 'sine';
+      oscL.frequency.value = 200;
+      oscR.frequency.value = 214;
+      oscL.connect(merger, 0, 0);
+      oscR.connect(merger, 0, 1);
+      return {
+        connect: function (dest) { merger.connect(dest); },
+        start: function () { oscL.start(); oscR.start(); },
+        stop: function () {
+          try { oscL.stop(); oscR.stop(); } catch (e) {}
+        },
+        disconnect: function () { merger.disconnect(); }
+      };
+    }
+    var len = ctx.sampleRate * 3;
+    var buf = ctx.createBuffer(2, len, ctx.sampleRate);
+    var left = buf.getChannelData(0);
+    var right = buf.getChannelData(1);
+    var lastL = 0.0, lastR = 0.0;
+    var b0_l = 0, b1_l = 0, b2_l = 0, b3_l = 0, b4_l = 0, b5_l = 0, b6_l = 0;
+    var b0_r = 0, b1_r = 0, b2_r = 0, b3_r = 0, b4_r = 0, b5_r = 0, b6_r = 0;
+    for (var i = 0; i < len; i++) {
+      var wl = Math.random() * 2 - 1;
+      var wr = Math.random() * 2 - 1;
+      if (type === 'brown') {
+        lastL = (lastL + 0.02 * wl) / 1.02;
+        lastR = (lastR + 0.02 * wr) / 1.02;
+        left[i] = Math.max(-1, Math.min(1, lastL * 3.5));
+        right[i] = Math.max(-1, Math.min(1, lastR * 3.5));
+      } else if (type === 'pink') {
+        b0_l = 0.99886 * b0_l + wl * 0.0555179;
+        b1_l = 0.99332 * b1_l + wl * 0.0750759;
+        b2_l = 0.96900 * b2_l + wl * 0.1538520;
+        b3_l = 0.86650 * b3_l + wl * 0.3104856;
+        b4_l = 0.55000 * b4_l + wl * 0.5329522;
+        b5_l = -0.7616 * b5_l - wl * 0.0168980;
+        var pL = b0_l + b1_l + b2_l + b3_l + b4_l + b5_l + b6_l + wl * 0.5362;
+        b6_l = wl * 0.115926;
+        b0_r = 0.99886 * b0_r + wr * 0.0555179;
+        b1_r = 0.99332 * b1_r + wr * 0.0750759;
+        b2_r = 0.96900 * b2_r + wr * 0.1538520;
+        b3_r = 0.86650 * b3_r + wr * 0.3104856;
+        b4_r = 0.55000 * b4_r + wr * 0.5329522;
+        b5_r = -0.7616 * b5_r - wr * 0.0168980;
+        var pR = b0_r + b1_r + b2_r + b3_r + b4_r + b5_r + b6_r + wr * 0.5362;
+        b6_r = wr * 0.115926;
+        left[i] = Math.max(-1, Math.min(1, pL * 0.22));
+        right[i] = Math.max(-1, Math.min(1, pR * 0.22));
+      } else {
+        left[i] = wl * 0.25;
+        right[i] = wr * 0.25;
+      }
+    }
+    var fadeLen = Math.floor(ctx.sampleRate * 0.05);
+    for (var j = 0; j < fadeLen; j++) {
+      var w = j / fadeLen;
+      left[j] = left[j] * w + left[len - fadeLen + j] * (1 - w);
+      right[j] = right[j] * w + right[len - fadeLen + j] * (1 - w);
+    }
+    var src = ctx.createBufferSource();
+    src.buffer = buf;
+    src.loop = true;
+    return src;
+  };
+
   Session.prototype._startTicker = function () {
     var self = this;
     if (this.tickId) clearInterval(this.tickId);
@@ -405,12 +530,14 @@
     // inside the user gesture: unlock + build the background keeper (no-op
     // unless enabled — iOS/iPadOS by default)
     this._bgPrepare();
+    this._startBed();
   };
 
   Session.prototype.pause = function () {
     // background keeper active (page hidden): control the <audio> element
     if (this._bgKeeper && this._bgKeeper.active) {
       try { this._bgKeeper.audio.pause(); } catch (e) {}
+      this._stopBed();
       return;
     }
     if (this.mode === 'layers') {
@@ -420,6 +547,7 @@
     } else if (this.activeEngine) {
       this.activeEngine.pause();
     }
+    this._stopBed();
   };
 
   // ---------- background keeper (iOS lock-screen handover) ----------
@@ -708,6 +836,7 @@
   };
 
   Session.prototype.stop = function () {
+    this._stopBed();
     this._bgDeactivate(); // stop the background keeper if it is active
     this._switchGen++; // invalidate pending crossfade retirements
     // stop cancels the session timer outright: an old deadline (or its
@@ -861,6 +990,8 @@
   Session.prototype.dispose = function () {
     this._disposed = true;
     this._switchGen++;
+    this._stopBed();
+    if (this._bedGain) { try { this._bedGain.disconnect(); } catch (e) {} this._bedGain = null; }
     if (this._bgKeeper) {
       if (this._bgVis) document.removeEventListener('visibilitychange', this._bgVis);
       // removing an element does not stop it — pause before removal
@@ -1585,8 +1716,31 @@
       '  <input type="checkbox" checked> <span>Adapt to time of day</span>',
       '</label>',
       '<div class="fcp-timerdisplay" hidden></div>',
+      '<div class="fcp-layerer-wrap">',
+      '  <div class="fcp-row fcp-bed-head"><span class="fcp-tlabel">Acoustic Layer Bed</span><span class="fcp-bed-status">Off</span></div>',
+      '  <div class="fcp-row fcp-bed-modes">',
+      '    <button type="button" class="fcp-bed-btn on" data-bed="off">Off</button>',
+      '    <button type="button" class="fcp-bed-btn" data-bed="brown" title="Brown Noise (1/f² Deep Focus Bed)">Brown</button>',
+      '    <button type="button" class="fcp-bed-btn" data-bed="pink" title="Pink Noise (1/f Brainwave Resonance)">Pink</button>',
+      '    <button type="button" class="fcp-bed-btn" data-bed="white" title="White Noise (Full-Spectrum Masking)">White</button>',
+      '    <button type="button" class="fcp-bed-btn" data-bed="beta" title="14Hz Beta Binaural Waves (Writing Focus)">14Hz Beta</button>',
+      '  </div>',
+      '  <div class="fcp-row fcp-bed-vol-row">',
+      '    <span class="fcp-bed-vol-lbl">Bed level</span>',
+      '    <input class="fcp-bed-vol" type="range" min="0" max="100" value="30" aria-label="Acoustic Bed Volume">',
+      '    <span class="fcp-bed-vol-val">30%</span>',
+      '  </div>',
+      '</div>',
       '<div class="fcp-sets-wrap" hidden>',
       '  <div class="fcp-tlabel">Sets</div>',
+      '  <div class="fcp-categories" role="tablist" aria-label="Set categories">',
+      '    <button type="button" class="fcp-cattab on" data-cat="all">All</button>',
+      '    <button type="button" class="fcp-cattab" data-cat="endel">Endel</button>',
+      '    <button type="button" class="fcp-cattab" data-cat="piano">Piano</button>',
+      '    <button type="button" class="fcp-cattab" data-cat="guitar">Guitar & Lute</button>',
+      '    <button type="button" class="fcp-cattab" data-cat="rest">Handpan & Focus</button>',
+      '    <button type="button" class="fcp-cattab" data-cat="noise">Noise Beds</button>',
+      '  </div>',
       '  <div class="fcp-sets" role="listbox" aria-label="Sets"></div>',
       '</div>',
       '<div class="fcp-layers-wrap" hidden>',
@@ -1680,6 +1834,36 @@
       });
     }
 
+    // acoustic layer bed controls
+    this.bedBtns = this.panel.querySelectorAll('.fcp-bed-btn');
+    this.bedStatus = this.panel.querySelector('.fcp-bed-status');
+    this.bedVolEl = this.panel.querySelector('.fcp-bed-vol');
+    this.bedVolVal = this.panel.querySelector('.fcp-bed-vol-val');
+    for (var bi = 0; bi < this.bedBtns.length; bi++) {
+      this.bedBtns[bi].addEventListener('click', function () {
+        var b = this.getAttribute('data-bed');
+        for (var bj = 0; bj < self.bedBtns.length; bj++) self.bedBtns[bj].classList.remove('on');
+        this.classList.add('on');
+        if (self.bedStatus) self.bedStatus.textContent = b === 'off' ? 'Off' : (b.charAt(0).toUpperCase() + b.slice(1));
+        if (self.session) self.session.setBedMode(b);
+      });
+    }
+    if (this.bedVolEl) {
+      this.bedVolEl.addEventListener('input', function () {
+        var val = parseInt(this.value, 10);
+        if (self.bedVolVal) self.bedVolVal.textContent = val + '%';
+        if (self.session) self.session.setBedVolume(val / 100);
+      });
+    }
+
+    // category tabs
+    var catTabs = this.panel.querySelectorAll('.fcp-cattab');
+    for (var ci = 0; ci < catTabs.length; ci++) {
+      catTabs[ci].addEventListener('click', function () {
+        self._filterCategory(this.getAttribute('data-cat'));
+      });
+    }
+
     document.addEventListener('click', function (e) {
       // clicks on elements marked data-fcp-toggle are player controls, not outside-clicks.
       // composedPath() is captured at dispatch, so a click target that a handler
@@ -1752,6 +1936,20 @@
     if (s.playingState() !== 'playing') s.play();
   };
 
+  UI.prototype._filterCategory = function (cat) {
+    this._activeCat = cat;
+    var tabs = this.panel.querySelectorAll('.fcp-cattab');
+    for (var i = 0; i < tabs.length; i++) {
+      tabs[i].classList.toggle('on', tabs[i].getAttribute('data-cat') === cat);
+    }
+    var chips = this.setsEl.querySelectorAll('.fcp-setchip');
+    for (var j = 0; j < chips.length; j++) {
+      var chipCat = chips[j].getAttribute('data-cat') || 'endel';
+      var show = (cat === 'all' || chipCat === cat);
+      chips[j].style.display = show ? '' : 'none';
+    }
+  };
+
   // build the set menu (multi-set mounts only)
   UI.prototype._renderSets = function () {
     var self = this;
@@ -1766,12 +1964,23 @@
         var chip = el('button', 'fcp-setchip');
         chip.setAttribute('role', 'option');
         chip.textContent = eng.opts.title;
+        var cat = eng.opts.category;
+        if (!cat) {
+          var id = eng.opts.id || '';
+          if (id.indexOf('piano') >= 0) cat = 'piano';
+          else if (id.indexOf('guitar') >= 0 || id.indexOf('lute') >= 0 || id.indexOf('morning') >= 0) cat = 'guitar';
+          else if (id.indexOf('waters') >= 0 || id.indexOf('regulation') >= 0 || id.indexOf('beta') >= 0) cat = 'rest';
+          else if (id.indexOf('noise') >= 0) cat = 'noise';
+          else cat = 'endel';
+        }
+        chip.setAttribute('data-cat', cat);
         chip.addEventListener('click', function () { self.session.switchSet(eng.setId); });
         frag.appendChild(chip);
       })(this.session.engines[i]);
     }
     this.setsEl.innerHTML = '';
     this.setsEl.appendChild(frag);
+    this._filterCategory(this._activeCat || 'all');
     this._highlightSet();
   };
 
