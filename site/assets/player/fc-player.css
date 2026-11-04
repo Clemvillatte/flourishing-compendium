@@ -357,14 +357,16 @@
 }
 .fcp-bed-modes {
   display: flex;
-  gap: 6px;
+  gap: 5px;
   margin-bottom: 8px;
+  flex-wrap: wrap;
 }
 .fcp-bed-btn {
-  flex: 1;
+  flex: 1 1 calc(16.66% - 5px);
+  min-width: 52px;
   font-family: var(--fcp-font-ui);
-  font-size: 11.5px;
-  padding: 6px 4px;
+  font-size: 11px;
+  padding: 6px 3px;
   text-align: center;
   background: var(--fcp-bg);
   border: 1px solid var(--fcp-line);
@@ -560,5 +562,6 @@
   .fcp-panel { right: 16px; left: 16px; width: auto; bottom: calc(80px + var(--fcp-fab-offset, 0px)); padding: 16px; }
   .fcp-controls { flex-wrap: wrap; gap: 10px; }
   .fcp-vol-row { max-width: 100%; width: 100%; order: 2; }
+  .fcp-bed-btn { flex: 1 1 calc(33.33% - 4px); min-width: 0; }
   .fcp-tracks { max-height: 110px; }
 }

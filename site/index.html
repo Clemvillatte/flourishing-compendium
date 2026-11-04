@@ -37,10 +37,6 @@
         <svg viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20.24 12.24a6 6 0 0 0-8.49-8.49L5 10.5V19h8.5z"/><line x1="16" y1="8" x2="2" y2="22"/><line x1="17.5" y1="15" x2="9" y2="15"/></svg>
         Editor
       </button>
-      <a id="tabStudio" class="vtab" href="studio.html" title="Soundscape Studio — multi-stem audio layerer for essay writing" aria-label="Open Soundscape Studio" style="text-decoration:none;display:inline-flex;align-items:center;gap:4px;">
-        <svg viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"/><path d="M19.07 4.93a10 10 0 0 1 0 14.14M15.54 8.46a5 5 0 0 1 0 7.07"/></svg>
-        Studio
-      </a>
       <!-- soundscape player launcher: docks into the header (between the Essay
            control and the help/backup cluster; on phones it sits between the
            title and the theme toggle — the header keeps only those visible) -->
@@ -801,35 +797,35 @@ window.addEventListener('DOMContentLoaded', function () {
   fabOffset();
   if (mq.addEventListener) mq.addEventListener('change', fabOffset);
   var SETS = [
-    ['flow', 'Flow', 16],
-    ['deliberate-practice', 'Deliberate practice', 16],
-    ['deep-listening', 'Deep listening', 16],
-    ['completing-the-cycle', 'Completing the cycle', 16],
-    ['rhythm-of-rest', 'The rhythm of rest', 16],
-    ['completeness-of-rest', 'The completeness of rest', 16],
-    ['the-dreaming', 'The Dreaming', 16],
-    ['siddhartha-and-the-river', 'Siddhartha and the river', 16],
-    ['abgeschiedenheit', 'Abgeschiedenheit', 16],
-    ['natures-rhythm', 'Following nature’s rhythm', 16],
-    ['thundering-silence', 'Thundering silence', 16],
-    ['stimulus-control', 'Stimulus control', 16],
-    ['dream-of-the-butterfly', 'The dream of the butterfly', 16],
-    ['flower-and-song', 'Flower and song', 16],
-    ['the-dark-night', 'The dark night', 22],
-    ['bare-attention', 'Bare attention', 16],
-    ['felt-piano', 'Changing Pace (Felt Piano)', 8, 'piano'],
-    ['ambient-piano', 'The World Can Wait (Piano)', 8, 'piano'],
-    ['winter-piano', 'Winter Meditations (Felt)', 8, 'piano'],
-    ['nylon-guitar', 'Dawn (Nylon Guitar)', 8, 'guitar'],
-    ['waves-guitar', 'Waves (Ambient Guitar)', 8, 'guitar'],
-    ['calm-morning', 'A Calm Morning (Guitar)', 8, 'guitar'],
-    ['baroque-lute', 'London Suite IV (Baroque Lute)', 8, 'guitar'],
-    ['still-waters', 'Still Waters (Calm Handpan)', 8, 'rest'],
-    ['regulation-999', 'Nervous Regulation 999Hz', 8, 'rest'],
-    ['beta-focus', '14Hz Beta Waves (Focus)', 8, 'rest'],
-    ['brown-noise', 'Brown Noise (1/f² Bed)', 8, 'noise'],
-    ['pink-noise', 'Pink Noise (1/f Resonance)', 8, 'noise'],
-    ['white-noise', 'White Noise (Full-Spectrum)', 8, 'noise']
+    ['flow', 'Flow', 16, 'ambient', 'Ambient focus'],
+    ['deliberate-practice', 'Deliberate practice', 16, 'ambient', 'Skill & absorption'],
+    ['deep-listening', 'Deep listening', 16, 'ambient', 'Receptive awareness'],
+    ['completing-the-cycle', 'Completing the cycle', 16, 'ambient', 'Stress recovery'],
+    ['rhythm-of-rest', 'The rhythm of rest', 16, 'ambient', 'Ultradian renewal'],
+    ['completeness-of-rest', 'The completeness of rest', 16, 'ambient', 'Restorative repose'],
+    ['the-dreaming', 'The Dreaming', 16, 'ambient', 'Deep ancestral time'],
+    ['siddhartha-and-the-river', 'Siddhartha and the river', 16, 'ambient', 'The voice of life'],
+    ['abgeschiedenheit', 'Abgeschiedenheit', 16, 'ambient', 'Detached stillness'],
+    ['natures-rhythm', 'Following nature’s rhythm', 16, 'ambient', 'Daoist attunement'],
+    ['thundering-silence', 'Thundering silence', 16, 'ambient', 'Vimalakirti’s quiet'],
+    ['stimulus-control', 'Stimulus control', 16, 'ambient', 'Protected focus'],
+    ['dream-of-the-butterfly', 'The dream of the butterfly', 16, 'ambient', 'Zhuangzi’s transformation'],
+    ['flower-and-song', 'Flower and song', 16, 'ambient', 'Nahua contemplative art'],
+    ['the-dark-night', 'The dark night', 22, 'ambient', 'The fallow soul'],
+    ['bare-attention', 'Bare attention', 16, 'ambient', 'Clear observation'],
+    ['felt-piano', 'The inner citadel', 8, 'piano', 'Felt piano'],
+    ['ambient-piano', 'The view from above', 8, 'piano', 'Ambient piano'],
+    ['winter-piano', 'The season of wintering', 8, 'piano', 'Sparse felt piano'],
+    ['nylon-guitar', 'Effortless action', 8, 'strings', 'Nylon guitar'],
+    ['waves-guitar', 'Panta rhei', 8, 'strings', 'Ambient guitar'],
+    ['calm-morning', 'The beginner’s mind', 8, 'strings', 'Fingerstyle guitar'],
+    ['baroque-lute', 'The golden mean', 8, 'strings', 'Baroque lute'],
+    ['still-waters', 'The clear mirror', 8, 'contemplative', 'Calm handpan'],
+    ['regulation-999', 'Equanimity', 8, 'contemplative', 'Harmonic drone'],
+    ['beta-focus', 'Right concentration', 8, 'contemplative', 'Focus pulse'],
+    ['brown-noise', 'The sheltering cavern', 8, 'noise', 'Deep brown noise'],
+    ['pink-noise', 'The rustling grove', 8, 'noise', 'Gentle pink noise'],
+    ['white-noise', 'The waterfall’s veil', 8, 'noise', 'Full-spectrum noise']
   ];
   window.__fcInst = FCPlayer.mount({
     launcher: '#fcLauncher', /* dock the toggle button into the header slot */
@@ -843,8 +839,8 @@ window.addEventListener('DOMContentLoaded', function () {
       return {
         id: s[0],
         title: s[1],
-        subtitle: s[2] + ' tracks · ' + s[2] + ' min',
-        category: s[3] || 'endel',
+        subtitle: s[2] + ' tracks · ' + (s[4] || 'Ambient'),
+        category: s[3] || 'ambient',
         source: { dir: 'assets/audio/' + s[0] + '/', pattern: 'segment_%04d.aac', count: s[2] }
       };
     })

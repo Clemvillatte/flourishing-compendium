@@ -325,14 +325,14 @@
 
   Session.prototype._createBedSource = function (type) {
     var ctx = this.ctx;
-    if (type === 'beta') {
+    if (type === 'beta' || type === 'alpha') {
       var merger = ctx.createChannelMerger(2);
       var oscL = ctx.createOscillator();
       var oscR = ctx.createOscillator();
       oscL.type = 'sine';
       oscR.type = 'sine';
       oscL.frequency.value = 200;
-      oscR.frequency.value = 214;
+      oscR.frequency.value = (type === 'alpha') ? 210 : 214; // 10Hz Alpha vs 14Hz Beta
       oscL.connect(merger, 0, 0);
       oscR.connect(merger, 0, 1);
       return {
@@ -1754,7 +1754,7 @@
     var self = this;
     this.opts = opts;
     this.volume = 0.8;
-    this.circadian = true;
+    this.circadian = false;
     this.engine = null;   // facade set by mount()
     this.session = null;  // set by mount()
 
@@ -1795,8 +1795,8 @@
       '    <button type="button" class="fcp-cattab on" data-cat="all">All</button>',
       '    <button type="button" class="fcp-cattab" data-cat="ambient">Ambient</button>',
       '    <button type="button" class="fcp-cattab" data-cat="piano">Piano</button>',
-      '    <button type="button" class="fcp-cattab" data-cat="guitar">Guitar & Lute</button>',
-      '    <button type="button" class="fcp-cattab" data-cat="rest">Handpan & Focus</button>',
+      '    <button type="button" class="fcp-cattab" data-cat="strings">Strings</button>',
+      '    <button type="button" class="fcp-cattab" data-cat="contemplative">Contemplative</button>',
       '    <button type="button" class="fcp-cattab" data-cat="noise">Noise Beds</button>',
       '  </div>',
       '  <div class="fcp-sets" role="listbox" aria-label="Sets"></div>',
@@ -1805,10 +1805,11 @@
       '  <div class="fcp-row fcp-bed-head"><span class="fcp-tlabel">Acoustic Layer Bed</span><span class="fcp-bed-status">Off</span></div>',
       '  <div class="fcp-row fcp-bed-modes">',
       '    <button type="button" class="fcp-bed-btn on" data-bed="off">Off</button>',
-      '    <button type="button" class="fcp-bed-btn" data-bed="brown" title="Brown Noise (1/f² Deep Focus Bed)">Brown</button>',
-      '    <button type="button" class="fcp-bed-btn" data-bed="pink" title="Pink Noise (1/f Brainwave Resonance)">Pink</button>',
-      '    <button type="button" class="fcp-bed-btn" data-bed="white" title="White Noise (Full-Spectrum Masking)">White</button>',
-      '    <button type="button" class="fcp-bed-btn" data-bed="beta" title="14Hz Beta Binaural Waves (Writing Focus)">14Hz Beta</button>',
+      '    <button type="button" class="fcp-bed-btn" data-bed="brown" title="Brown Noise (Deep acoustic grounding)">Brown</button>',
+      '    <button type="button" class="fcp-bed-btn" data-bed="pink" title="Pink Noise (Gentle rainfall mask)">Pink</button>',
+      '    <button type="button" class="fcp-bed-btn" data-bed="white" title="White Noise (Full-spectrum masking)">White</button>',
+      '    <button type="button" class="fcp-bed-btn" data-bed="beta" title="14Hz SMR / Beta Wave (Calm alert focus)">14Hz Focus</button>',
+      '    <button type="button" class="fcp-bed-btn" data-bed="alpha" title="10Hz Alpha Wave (Creative relaxed flow)">10Hz Flow</button>',
       '  </div>',
       '  <div class="fcp-row fcp-bed-vol-row">',
       '    <span class="fcp-bed-vol-lbl">Bed Level</span>',
@@ -1832,9 +1833,7 @@
       '    <button class="fcp-chip" data-min="45">45m</button>',
       '    <button class="fcp-chip" data-min="0">off</button>',
       '  </div>',
-      '  <label class="fcp-circ">',
-      '    <input type="checkbox" checked> <span>Circadian</span>',
-      '  </label>',
+      '  <label class="fcp-circ" hidden><input type="checkbox"></label>',
       '</div>',
       '<div class="fcp-timerdisplay" hidden></div>',
     ].join('');
@@ -1941,7 +1940,10 @@
         var b = this.getAttribute('data-bed');
         for (var bj = 0; bj < self.bedBtns.length; bj++) self.bedBtns[bj].classList.remove('on');
         this.classList.add('on');
-        if (self.bedStatus) self.bedStatus.textContent = b === 'off' ? 'Off' : (b.charAt(0).toUpperCase() + b.slice(1));
+        if (self.bedStatus) {
+          var label = b === 'off' ? 'Off' : (b === 'beta' ? '14Hz Focus' : (b === 'alpha' ? '10Hz Flow' : (b.charAt(0).toUpperCase() + b.slice(1))));
+          self.bedStatus.textContent = label;
+        }
         if (self.session) self.session.setBedMode(b);
       });
     }
@@ -2067,12 +2069,14 @@
         if (!cat) {
           var id = eng.opts.id || '';
           if (id.indexOf('piano') >= 0) cat = 'piano';
-          else if (id.indexOf('guitar') >= 0 || id.indexOf('lute') >= 0 || id.indexOf('morning') >= 0) cat = 'guitar';
-          else if (id.indexOf('waters') >= 0 || id.indexOf('regulation') >= 0 || id.indexOf('beta') >= 0) cat = 'rest';
+          else if (id.indexOf('guitar') >= 0 || id.indexOf('lute') >= 0 || id.indexOf('morning') >= 0) cat = 'strings';
+          else if (id.indexOf('waters') >= 0 || id.indexOf('regulation') >= 0 || id.indexOf('beta') >= 0) cat = 'contemplative';
           else if (id.indexOf('noise') >= 0) cat = 'noise';
           else cat = 'ambient';
         }
         if (cat === 'endel') cat = 'ambient';
+        if (cat === 'guitar') cat = 'strings';
+        if (cat === 'rest') cat = 'contemplative';
         chip.setAttribute('data-cat', cat);
         chip.addEventListener('click', function () { self.session.switchSet(eng.setId); });
         frag.appendChild(chip);
