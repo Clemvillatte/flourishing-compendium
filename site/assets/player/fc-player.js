@@ -223,6 +223,7 @@
     this.ctx = null;
     this.filter = null;
     this.masterGain = null;
+    this.limiter = null;
     this.timerGain = null;
     this.engines = [];        // one Engine per set (or per layer)
     this.activeEngine = null; // sets mode: the selected set; layers mode: engines[0]
@@ -237,6 +238,10 @@
     this._elapsedBase = 0;    // layers mode: elapsed play time (position display)
     this._playStart = 0;
     this._bgKeeper = null;    // background keeper (iOS lock-screen handover)
+    this._bedType = 'off';
+    this._bedVol = 0.3;
+    this._bedGain = null;
+    this._bedNode = null;
   }
 
   Session.prototype.ensureContext = function () {
@@ -248,12 +253,34 @@
     this.filter.frequency.value = 20000;
     this.filter.Q.value = 0.0001;
     this.masterGain = this.ctx.createGain();
-    this.masterGain.gain.value = this.ui.getVolume();
+    this.masterGain.gain.value = this._computeMasterGain(this.ui.getVolume());
+    try {
+      this.limiter = this.ctx.createDynamicsCompressor();
+      this.limiter.threshold.value = -0.5;
+      this.limiter.knee.value = 3;
+      this.limiter.ratio.value = 20;
+      this.limiter.attack.value = 0.003;
+      this.limiter.release.value = 0.1;
+    } catch (e) {
+      this.limiter = null;
+    }
     this.timerGain = this.ctx.createGain(); // owned by the session timer fade
     this.timerGain.gain.value = 1;
     this.filter.connect(this.masterGain);
-    this.masterGain.connect(this.timerGain);
+    if (this.limiter) {
+      this.masterGain.connect(this.limiter);
+      this.limiter.connect(this.timerGain);
+    } else {
+      this.masterGain.connect(this.timerGain);
+    }
     this.timerGain.connect(this.ctx.destination);
+  };
+
+  Session.prototype._computeMasterGain = function (v) {
+    var vol = (typeof v === 'number') ? Math.max(0, Math.min(1, v)) : 0.8;
+    // Perceptual audio taper: 0% is silent, 50% is comfortable reading volume,
+    // 70% is unity gain (1.0), and 100% delivers +6dB (2.0x) clean headroom boost.
+    return Math.pow(vol, 1.5) * 2.0;
   };
 
   // Per-engine output gain (used as the set crossfade / layer level stage).
@@ -272,6 +299,25 @@
 
   // ---------- real-time procedural acoustic bed (layerer) ----------
 
+  Session.prototype._computeBedGain = function (vol, type) {
+    var v = (typeof vol === 'number') ? Math.max(0, Math.min(1, vol)) : 0.3;
+    var t = type || this._bedType;
+    if (!t || t === 'off') return 0;
+    // Perceptual exponential power taper (power 2.6):
+    // 0%: 0.0
+    // 6%: 0.00067 (whisper quiet, subtle murmuring texture, never loud)
+    // 15%: 0.007 (distant gentle ambient presence)
+    // 30%: 0.043 (subtle underbed beneath piano or guitar)
+    // 50%: 0.165 (present, comfortable focus shield)
+    // 100%: 1.0 (firm masking bed, capped so it never overwhelms foreground music)
+    var taper = Math.pow(v, 2.6);
+    var scale = 0.16;
+    if (t === 'pink') scale = 0.12;
+    else if (t === 'white') scale = 0.06;
+    else if (t === 'beta' || t === 'alpha') scale = 0.10;
+    return taper * scale;
+  };
+
   Session.prototype.setBedMode = function (type) {
     this._bedType = type;
     if (this._bedType === 'off' || !this._bedType) {
@@ -284,7 +330,7 @@
   Session.prototype.setBedVolume = function (vol) {
     this._bedVol = Math.max(0, Math.min(1, vol));
     if (this._bedGain && this.ctx && this._bedType && this._bedType !== 'off' && this.playingState() === 'playing') {
-      var target = this._bedVol * 0.45;
+      var target = this._computeBedGain(this._bedVol, this._bedType);
       this._bedGain.gain.setTargetAtTime(target, this.ctx.currentTime, 0.1);
     }
   };
@@ -304,7 +350,7 @@
     this._bedNode = this._createBedSource(this._bedType);
     if (this._bedNode) {
       this._bedNode.connect(this._bedGain);
-      var target = (this._bedVol !== undefined ? this._bedVol : 0.3) * 0.45;
+      var target = this._computeBedGain(this._bedVol !== undefined ? this._bedVol : 0.3, this._bedType);
       this._bedGain.gain.setTargetAtTime(target, this.ctx.currentTime, 0.2);
       this._bedNode.start();
     }
@@ -329,12 +375,18 @@
       var merger = ctx.createChannelMerger(2);
       var oscL = ctx.createOscillator();
       var oscR = ctx.createOscillator();
+      var gL = ctx.createGain();
+      var gR = ctx.createGain();
+      gL.gain.value = 0.35;
+      gR.gain.value = 0.35;
       oscL.type = 'sine';
       oscR.type = 'sine';
       oscL.frequency.value = 200;
       oscR.frequency.value = (type === 'alpha') ? 210 : 214; // 10Hz Alpha vs 14Hz Beta
-      oscL.connect(merger, 0, 0);
-      oscR.connect(merger, 0, 1);
+      oscL.connect(gL);
+      oscR.connect(gR);
+      gL.connect(merger, 0, 0);
+      gR.connect(merger, 0, 1);
       return {
         connect: function (dest) { merger.connect(dest); },
         start: function () { oscL.start(); oscR.start(); },
@@ -357,8 +409,8 @@
       if (type === 'brown') {
         lastL = (lastL + 0.02 * wl) / 1.02;
         lastR = (lastR + 0.02 * wr) / 1.02;
-        left[i] = Math.max(-1, Math.min(1, lastL * 3.5));
-        right[i] = Math.max(-1, Math.min(1, lastR * 3.5));
+        left[i] = Math.max(-1, Math.min(1, lastL * 1.5));
+        right[i] = Math.max(-1, Math.min(1, lastR * 1.5));
       } else if (type === 'pink') {
         b0_l = 0.99886 * b0_l + wl * 0.0555179;
         b1_l = 0.99332 * b1_l + wl * 0.0750759;
@@ -376,11 +428,11 @@
         b5_r = -0.7616 * b5_r - wr * 0.0168980;
         var pR = b0_r + b1_r + b2_r + b3_r + b4_r + b5_r + b6_r + wr * 0.5362;
         b6_r = wr * 0.115926;
-        left[i] = Math.max(-1, Math.min(1, pL * 0.22));
-        right[i] = Math.max(-1, Math.min(1, pR * 0.22));
+        left[i] = Math.max(-1, Math.min(1, pL * 0.14));
+        right[i] = Math.max(-1, Math.min(1, pR * 0.14));
       } else {
-        left[i] = wl * 0.25;
-        right[i] = wr * 0.25;
+        left[i] = wl * 0.10;
+        right[i] = wr * 0.10;
       }
     }
     var fadeLen = Math.floor(ctx.sampleRate * 0.05);
@@ -437,15 +489,16 @@
     var c = circadian(new Date().getHours());
     this.filter.frequency.setTargetAtTime(c.cutoff, this.ctx.currentTime, 2.0);
     // level trim only when not muted; keep user volume separate
-    this.masterGain.gain.setTargetAtTime(this.ui.getVolume() * c.gain, this.ctx.currentTime, 2.0);
+    this.masterGain.gain.setTargetAtTime(this._computeMasterGain(this.ui.getVolume()) * c.gain, this.ctx.currentTime, 2.0);
   };
 
   Session.prototype.setVolume = function (v) {
+    var gain = this._computeMasterGain(v);
     if (this.masterGain && this.ctx) {
-      this.masterGain.gain.setTargetAtTime(v, this.ctx.currentTime, 0.05);
+      this.masterGain.gain.setTargetAtTime(gain, this.ctx.currentTime, 0.05);
     }
     for (var i = 0; i < this.engines.length; i++) {
-      if (this.engines[i].fallbackAudio) this.engines[i].fallbackAudio.volume = v;
+      if (this.engines[i].fallbackAudio) this.engines[i].fallbackAudio.volume = Math.max(0, Math.min(1, v));
     }
   };
 
@@ -1907,7 +1960,7 @@
       if (self.session) {
         if (!this.checked && self.session.filter && self.session.ctx) {
           self.session.filter.frequency.setTargetAtTime(20000, self.session.ctx.currentTime, 0.5);
-          self.session.masterGain.gain.setTargetAtTime(self.volume, self.session.ctx.currentTime, 0.5);
+          self.session.masterGain.gain.setTargetAtTime(self.session._computeMasterGain(self.volume), self.session.ctx.currentTime, 0.5);
         } else self.session._applyCircadian();
       }
     });
