@@ -221,8 +221,10 @@
     this.opts = opts;
     this.ui = ui;
     this.ctx = null;
-    this.filter = null;
-    this.masterGain = null;
+    this.musicFilter = null;
+    this.musicGain = null;
+    this._bedGain = null;
+    this._bedNode = null;
     this.limiter = null;
     this.timerGain = null;
     this.engines = [];        // one Engine per set (or per layer)
@@ -240,20 +242,17 @@
     this._bgKeeper = null;    // background keeper (iOS lock-screen handover)
     this._bedType = 'off';
     this._bedVol = 0.3;
-    this._bedGain = null;
-    this._bedNode = null;
+    // Compatibility aliases
+    this.masterGain = null;
+    this.filter = null;
   }
 
   Session.prototype.ensureContext = function () {
     if (this.ctx) return;
     var AC = window.AudioContext || window.webkitAudioContext;
     this.ctx = new AC();
-    this.filter = this.ctx.createBiquadFilter();
-    this.filter.type = 'lowpass';
-    this.filter.frequency.value = 20000;
-    this.filter.Q.value = 0.0001;
-    this.masterGain = this.ctx.createGain();
-    this.masterGain.gain.value = this._computeMasterGain(this.ui.getVolume());
+
+    // Master safety brickwall limiter: sums independent music and bed buses cleanly without digital clipping
     try {
       this.limiter = this.ctx.createDynamicsCompressor();
       this.limiter.threshold.value = -0.5;
@@ -264,23 +263,61 @@
     } catch (e) {
       this.limiter = null;
     }
-    this.timerGain = this.ctx.createGain(); // owned by the session timer fade
+
+    this.timerGain = this.ctx.createGain(); // session timer fade
     this.timerGain.gain.value = 1;
-    this.filter.connect(this.masterGain);
+
     if (this.limiter) {
-      this.masterGain.connect(this.limiter);
       this.limiter.connect(this.timerGain);
-    } else {
-      this.masterGain.connect(this.timerGain);
     }
     this.timerGain.connect(this.ctx.destination);
+
+    // 1. Independent Music Bus: engines -> musicFilter (circadian) -> musicGain -> limiter
+    this.musicFilter = this.ctx.createBiquadFilter();
+    this.musicFilter.type = 'lowpass';
+    this.musicFilter.frequency.value = 20000;
+    this.musicFilter.Q.value = 0.0001;
+
+    this.musicGain = this.ctx.createGain();
+    this.musicGain.gain.value = this._faderGain(this.ui.getVolume());
+    this.musicFilter.connect(this.musicGain);
+
+    if (this.limiter) {
+      this.musicGain.connect(this.limiter);
+    } else {
+      this.musicGain.connect(this.timerGain);
+    }
+
+    // 2. Independent Bed Bus: _bedNode -> _bedGain -> limiter (completely independent from music bus)
+    this._bedGain = this.ctx.createGain();
+    var initialBedGain = (this._bedType && this._bedType !== 'off' && this.playingState() === 'playing')
+      ? this._faderGain(this._bedVol) : 0;
+    this._bedGain.gain.value = initialBedGain;
+    if (this.limiter) {
+      this._bedGain.connect(this.limiter);
+    } else {
+      this._bedGain.connect(this.timerGain);
+    }
+
+    // Aliases for backwards compatibility with any engine facades
+    this.masterGain = this.musicGain;
+    this.filter = this.musicFilter;
   };
 
-  Session.prototype._computeMasterGain = function (v) {
-    var vol = (typeof v === 'number') ? Math.max(0, Math.min(1, v)) : 0.8;
-    // Perceptual audio taper: 0% is silent, 50% is comfortable reading volume,
-    // 70% is unity gain (1.0), and 100% delivers +6dB (2.0x) clean headroom boost.
-    return Math.pow(vol, 1.5) * 2.0;
+  Session.prototype._faderGain = function (v) {
+    var x = (typeof v === 'number') ? Math.max(0, Math.min(1, v)) : 0;
+    if (x <= 0) return 0;
+    // Identical wide-range audio fader law for both Music and Bed Layer:
+    // - 0%: 0.0 (-infinity dB / silence)
+    // - 2%: -79 dB
+    // - 5%: -59 dB (whisper-quiet ambient texture)
+    // - 10%: -44 dB
+    // - 25%: -24 dB
+    // - 50%: -9 dB
+    // - 76%: 0 dB (unity gain 1.0)
+    // - 100%: +6 dB (boost gain 2.0)
+    // Both sliders share the exact same Max dB (+6 dB) and Lowest dB (-inf dB).
+    return Math.pow(x, 2.5) * 2.0;
   };
 
   // Per-engine output gain (used as the set crossfade / layer level stage).
@@ -293,30 +330,11 @@
       base = engine === this.activeEngine ? 1 : 0;
     }
     g.gain.value = base;
-    g.connect(this.filter);
+    g.connect(this.musicFilter);
     return g;
   };
 
   // ---------- real-time procedural acoustic bed (layerer) ----------
-
-  Session.prototype._computeBedGain = function (vol, type) {
-    var v = (typeof vol === 'number') ? Math.max(0, Math.min(1, vol)) : 0.3;
-    var t = type || this._bedType;
-    if (!t || t === 'off') return 0;
-    // Perceptual exponential power taper (power 2.6):
-    // 0%: 0.0
-    // 6%: 0.00067 (whisper quiet, subtle murmuring texture, never loud)
-    // 15%: 0.007 (distant gentle ambient presence)
-    // 30%: 0.043 (subtle underbed beneath piano or guitar)
-    // 50%: 0.165 (present, comfortable focus shield)
-    // 100%: 1.0 (firm masking bed, capped so it never overwhelms foreground music)
-    var taper = Math.pow(v, 2.6);
-    var scale = 0.16;
-    if (t === 'pink') scale = 0.12;
-    else if (t === 'white') scale = 0.06;
-    else if (t === 'beta' || t === 'alpha') scale = 0.10;
-    return taper * scale;
-  };
 
   Session.prototype.setBedMode = function (type) {
     this._bedType = type;
@@ -324,25 +342,25 @@
       this._stopBed();
       return;
     }
-    if (this.playingState() === 'playing') this._startBed();
+    if (this.playingState() === 'playing') {
+      this._startBed();
+    } else {
+      // Enabling a bed layer while paused/idle kicks off playback
+      this.play();
+    }
   };
 
   Session.prototype.setBedVolume = function (vol) {
     this._bedVol = Math.max(0, Math.min(1, vol));
     if (this._bedGain && this.ctx && this._bedType && this._bedType !== 'off' && this.playingState() === 'playing') {
-      var target = this._computeBedGain(this._bedVol, this._bedType);
-      this._bedGain.gain.setTargetAtTime(target, this.ctx.currentTime, 0.1);
+      var target = this._faderGain(this._bedVol);
+      this._bedGain.gain.setTargetAtTime(target, this.ctx.currentTime, 0.05);
     }
   };
 
   Session.prototype._startBed = function () {
     if (!this._bedType || this._bedType === 'off' || this.playingState() !== 'playing') return;
     this.ensureContext();
-    if (!this._bedGain) {
-      this._bedGain = this.ctx.createGain();
-      this._bedGain.gain.value = 0;
-      this._bedGain.connect(this.filter);
-    }
     if (this._bedNode) {
       try { this._bedNode.stop(); this._bedNode.disconnect(); } catch (x) {}
       this._bedNode = null;
@@ -350,21 +368,21 @@
     this._bedNode = this._createBedSource(this._bedType);
     if (this._bedNode) {
       this._bedNode.connect(this._bedGain);
-      var target = this._computeBedGain(this._bedVol !== undefined ? this._bedVol : 0.3, this._bedType);
-      this._bedGain.gain.setTargetAtTime(target, this.ctx.currentTime, 0.2);
+      var target = this._faderGain(this._bedVol !== undefined ? this._bedVol : 0.3);
+      this._bedGain.gain.setTargetAtTime(target, this.ctx.currentTime, 0.1);
       this._bedNode.start();
     }
   };
 
   Session.prototype._stopBed = function () {
     if (this._bedGain && this.ctx) {
-      this._bedGain.gain.setTargetAtTime(0, this.ctx.currentTime, 0.15);
+      this._bedGain.gain.setTargetAtTime(0, this.ctx.currentTime, 0.1);
     }
     if (this._bedNode) {
       var n = this._bedNode;
       setTimeout(function () {
         try { n.stop(); n.disconnect(); } catch (x) {}
-      }, 200);
+      }, 150);
       this._bedNode = null;
     }
   };
@@ -377,8 +395,8 @@
       var oscR = ctx.createOscillator();
       var gL = ctx.createGain();
       var gR = ctx.createGain();
-      gL.gain.value = 0.35;
-      gR.gain.value = 0.35;
+      gL.gain.value = 0.25;
+      gR.gain.value = 0.25;
       oscL.type = 'sine';
       oscR.type = 'sine';
       oscL.frequency.value = 200;
@@ -409,8 +427,8 @@
       if (type === 'brown') {
         lastL = (lastL + 0.02 * wl) / 1.02;
         lastR = (lastR + 0.02 * wr) / 1.02;
-        left[i] = Math.max(-1, Math.min(1, lastL * 1.5));
-        right[i] = Math.max(-1, Math.min(1, lastR * 1.5));
+        left[i] = Math.max(-1, Math.min(1, lastL * 2.5));
+        right[i] = Math.max(-1, Math.min(1, lastR * 2.5));
       } else if (type === 'pink') {
         b0_l = 0.99886 * b0_l + wl * 0.0555179;
         b1_l = 0.99332 * b1_l + wl * 0.0750759;
@@ -428,11 +446,11 @@
         b5_r = -0.7616 * b5_r - wr * 0.0168980;
         var pR = b0_r + b1_r + b2_r + b3_r + b4_r + b5_r + b6_r + wr * 0.5362;
         b6_r = wr * 0.115926;
-        left[i] = Math.max(-1, Math.min(1, pL * 0.14));
-        right[i] = Math.max(-1, Math.min(1, pR * 0.14));
+        left[i] = Math.max(-1, Math.min(1, pL * 0.22));
+        right[i] = Math.max(-1, Math.min(1, pR * 0.22));
       } else {
-        left[i] = wl * 0.10;
-        right[i] = wr * 0.10;
+        left[i] = wl * 0.18;
+        right[i] = wr * 0.18;
       }
     }
     var fadeLen = Math.floor(ctx.sampleRate * 0.05);
@@ -485,17 +503,17 @@
   };
 
   Session.prototype._applyCircadian = function () {
-    if (!this.ui.circadianOn() || !this.filter || !this.ctx) return;
+    if (!this.ui.circadianOn() || !this.musicFilter || !this.ctx) return;
     var c = circadian(new Date().getHours());
-    this.filter.frequency.setTargetAtTime(c.cutoff, this.ctx.currentTime, 2.0);
-    // level trim only when not muted; keep user volume separate
-    this.masterGain.gain.setTargetAtTime(this._computeMasterGain(this.ui.getVolume()) * c.gain, this.ctx.currentTime, 2.0);
+    this.musicFilter.frequency.setTargetAtTime(c.cutoff, this.ctx.currentTime, 2.0);
+    // level trim only on music; bed stays completely independent
+    this.musicGain.gain.setTargetAtTime(this._faderGain(this.ui.getVolume()) * c.gain, this.ctx.currentTime, 2.0);
   };
 
   Session.prototype.setVolume = function (v) {
-    var gain = this._computeMasterGain(v);
-    if (this.masterGain && this.ctx) {
-      this.masterGain.gain.setTargetAtTime(gain, this.ctx.currentTime, 0.05);
+    var gain = this._faderGain(v);
+    if (this.musicGain && this.ctx) {
+      this.musicGain.gain.setTargetAtTime(gain, this.ctx.currentTime, 0.05);
     }
     for (var i = 0; i < this.engines.length; i++) {
       if (this.engines[i].fallbackAudio) this.engines[i].fallbackAudio.volume = Math.max(0, Math.min(1, v));
@@ -1058,6 +1076,9 @@
     this._switchGen++;
     this._stopBed();
     if (this._bedGain) { try { this._bedGain.disconnect(); } catch (e) {} this._bedGain = null; }
+    if (this.musicGain) { try { this.musicGain.disconnect(); } catch (e) {} this.musicGain = null; }
+    if (this.musicFilter) { try { this.musicFilter.disconnect(); } catch (e) {} this.musicFilter = null; }
+    if (this.limiter) { try { this.limiter.disconnect(); } catch (e) {} this.limiter = null; }
     if (this._bgKeeper) {
       if (this._bgVis) document.removeEventListener('visibilitychange', this._bgVis);
       // removing an element does not stop it — pause before removal
@@ -1958,9 +1979,9 @@
     this.circEl.addEventListener('change', function () {
       self.circadian = this.checked;
       if (self.session) {
-        if (!this.checked && self.session.filter && self.session.ctx) {
-          self.session.filter.frequency.setTargetAtTime(20000, self.session.ctx.currentTime, 0.5);
-          self.session.masterGain.gain.setTargetAtTime(self.session._computeMasterGain(self.volume), self.session.ctx.currentTime, 0.5);
+        if (!this.checked && self.session.musicFilter && self.session.ctx) {
+          self.session.musicFilter.frequency.setTargetAtTime(20000, self.session.ctx.currentTime, 0.5);
+          self.session.musicGain.gain.setTargetAtTime(self.session._faderGain(self.volume), self.session.ctx.currentTime, 0.5);
         } else self.session._applyCircadian();
       }
     });
